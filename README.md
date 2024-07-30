@@ -1,4 +1,4 @@
-# MovieRecommendation
+# Movie Recommendation Script
 This project is an attempt to explore the power of python for data analysis for a recommendation system. It was built out of curiosity to understand how large enterprise comapnies work in designing and algorightms to target their customers.
 
 ## Pre-requsites
